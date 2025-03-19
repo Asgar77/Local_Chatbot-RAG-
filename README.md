@@ -2,7 +2,8 @@
 
 A Streamlit-based web application that allows users to upload PDF documents, process them for question-answering, and interact with the documents using Llama 3.2 via Ollama.
 
-![RAG Q&A Application](https://raw.githubusercontent.com/username/rag-ollama-qa/main/docs/app-screenshot.png)
+
+![image](https://github.com/user-attachments/assets/137c2acf-8cb6-4214-9173-950b7ef1c4a4)
 
 ## Overview
 
